@@ -65,7 +65,6 @@ Here's an example of my output for this step.  (note: this is after a perspectiv
 
 I define the function `warp(img)` in cell 5 which warps an image with a hard coded set of corrdinates. I chose theese through trial and error, 
 
-```
 This resulted in the following source and destination points:
 
 | Source        | Destination   | 
